@@ -71,6 +71,9 @@ StyleCopReport.xml
 # Ignore venv
 venv/
 
+#Ignore .DS_Store file
+.DS_Store
+
 # Files built by Visual Studio
 *_i.c
 *_p.c
