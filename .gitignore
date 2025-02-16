@@ -71,6 +71,11 @@ StyleCopReport.xml
 # Ignore venv
 venv/
 
+# Ignore unchanged files for submission
+tictactoe/OpenSans-Regular.tff
+tictactoe/requirements.txt
+tictactoe/runner.py
+
 #Ignore .DS_Store file
 .DS_Store
 
